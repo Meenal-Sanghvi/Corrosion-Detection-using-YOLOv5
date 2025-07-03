@@ -1,0 +1,12 @@
+names:
+- Corrosion
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: corrosion-instance-segmentation-sfcpc
+  url: https://universe.roboflow.com/cawilai-interns-july-2023/corrosion-instance-segmentation-sfcpc/dataset/1
+  version: 1
+  workspace: cawilai-interns-july-2023
+test: ../test/images
+train: Corrosion-Instance-Segmentation-1/train/images
+val: Corrosion-Instance-Segmentation-1/valid/images
