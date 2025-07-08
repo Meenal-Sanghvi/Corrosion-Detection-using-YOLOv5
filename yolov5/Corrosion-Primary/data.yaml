@@ -1,0 +1,13 @@
+train: C:/Users/LENOVO/corrosion_yolov5/yolov5/Corrosion-Primary/train/images
+val: C:/Users/LENOVO/corrosion_yolov5/yolov5/Corrosion-Primary/valid/images
+test: C:/Users/LENOVO/corrosion_yolov5/yolov5/Corrosion-Primary/test/images
+
+nc: 1
+names: ['corrosion']
+
+roboflow:
+  workspace: meenalsanghvi
+  project: corrosion-detection-primary
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/meenalsanghvi/corrosion-detection-primary/dataset/3CLS

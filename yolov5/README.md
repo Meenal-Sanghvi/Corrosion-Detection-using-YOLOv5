@@ -3,7 +3,7 @@
 This project is part of my Summer Research Internship and aims to develop a deep learning-based system for detecting corrosion on metal surfaces using the YOLOv5 object detection model.
 
 🚀 Project Overview
-Goal:
+Goal: 
 To build an AI tool that can automatically detect corrosion in industrial images to assist in preventive maintenance and inspection.
 
 Technique Used:
